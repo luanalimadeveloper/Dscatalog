@@ -32,6 +32,7 @@ import com.devsuperior.dscatalog.services.exceptions.ResourceNotFoundException;
 import com.devsuperior.dscatalog.tests.Factory;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
+
 @WebMvcTest(ProductResource.class)
 public class ProductResourcesTests {
 
